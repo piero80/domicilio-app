@@ -1,0 +1,394 @@
+{
+  "Salute": {
+    "icon": "👩‍⚕️",
+    "data": [{ "name": "", "tel": "", "note": "" }]
+  },
+  "gelaterie": {
+    "icon": "🍦",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "macellerie": {
+    "icon": "🥩",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "Panifici": {
+    "icon": "🍞",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "generi alimentari": {
+    "icon": "🥬",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "site": "",
+        "note": ""
+      }
+    ]
+  },
+  "Ristorazione": {
+    "icon": "🍽️",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "Pesce fresco": {
+    "icon": "🎣",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "sushi": {
+    "icon": "🍣",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "pasta fresca e primi piatti": {
+    "icon": "🍝",
+    "data": [
+      {
+        "name": "",
+        "tel": [],
+        "note": ""
+      }
+    ]
+  },
+  "Enoteca e Birre": {
+    "icon": "🍾",
+    "data": [
+      {
+        "name": "",
+        "tel": [],
+        "note": ""
+      }
+    ]
+  },
+  "Frutta fresca": {
+    "icon": "🍎",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "Supermercati": {
+    "icon": "🛒",
+    "data": [
+      {
+        "name": "METÀ",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "EMMEPIÙ",
+        "address": "Viale Aventino, 90",
+        "tel": "0648903726",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "CONAD",
+        "address": "Via di S. Croce in Gerusalemme, 14",
+        "tel": "067028013",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "PAM",
+        "address": "Via San Martino della Battaglia, 30",
+        "tel": "067028013",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "IL CASTORO",
+        "address": "Piazza S. Maria Maggiore, 1‐5",
+        "tel": "0644360225",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "PEWEX",
+        "address": "Via Merulana, 46‐49",
+        "tel": "0669406818",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "IL CASTORO",
+        "address": "Via dei Laterani, 39",
+        "tel": "0677203356",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "PAM",
+        "address": "Via Barberini, 10‐16",
+        "tel": "0645751857",
+        "site": "",
+        "note": "Solo dal lunedì al venerdì",
+        "municipio": "I"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via di Porta Castello, 15",
+        "tel": "06 6476 0294",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via Sebastiano Veniero, 10/A",
+        "tel": "0639733050",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "PEWEX",
+        "address": "Via Fabio Massimo, 35‐37",
+        "tel": "063224943",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "PAM",
+        "address": "Via dei Gracchi, 139",
+        "tel": "063220637",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "PAM",
+        "address": "Via delle Botteghe Oscure, 5",
+        "tel": "06 89320361",
+        "site": "",
+        "note": "Solo dal lunedì al venerdì",
+        "municipio": "I"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via delle Fornaci, 136",
+        "tel": "0639379847",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "COOP",
+        "address": "Via del Pozzetto, 112",
+        "tel": "066990135",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "COOP",
+        "address": "Via della Croce, 48",
+        "tel": "0669191040",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "I"
+      },
+      {
+        "name": "PAM",
+        "address": "Via Emanuele Filiberto, 180",
+        "tel": "0645519050",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "PEWEX",
+        "address": "Piazza di S. Maria Liberatrice, 1",
+        "tel": "0657305038",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via Carlo Tavolacci, 1",
+        "tel": "06 5881433",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "CONAD",
+        "address": "Via Buonarroti, 8",
+        "tel": "06 4828281",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "ELITE",
+        "address": "Via Cavour, 232",
+        "tel": "06 485687",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "COOP",
+        "address": "Viale Parioli, 24‐31",
+        "tel": "06 8083860",
+        "site": "",
+        "note": "",
+        "municipio": "II"
+      },
+      {
+        "name": "TIGRE",
+        "address": "Viale Liegi, 29",
+        "tel": "06 8419244",
+        "site": "",
+        "note": "",
+        "municipio": "II"
+      },
+      {
+        "name": "DOC SUPERMERCATI",
+        "address": "Via Vittorio Locchi, 15/B",
+        "tel": "06 80693557",
+        "site": "",
+        "note": "",
+        "municipio": "II"
+      },
+      {
+        "name": "CASTORO",
+        "address": "Via Nomentana, 6",
+        "tel": "06 44238163",
+        "site": "",
+        "note": "",
+        "municipio": "II"
+      },
+      {
+        "name": "CASTORO",
+        "address": "Via Nomentana, 433",
+        "tel": "06 86391558",
+        "site": "",
+        "note": "",
+        "municipio": "II"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Viale Ugo Ojetti (angolo Via R. Fucini)",
+        "tel": "06 8270941",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      },
+      {
+        "name": "PAM",
+        "address": "Via Franco Sacchetti, 110",
+        "tel": "06 45610532",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via della Bufalotta, 548",
+        "tel": "06 87091302",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "Pasticceria": {
+    "icon": "🍩",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "Pizzerie": {
+    "icon": "🍕",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "Lavenderie": {
+    "icon": "👔",
+    "data": [
+      {
+        "name": "",
+        "tel": [],
+        "note": ""
+      }
+    ]
+  },
+  "Informatica": {
+    "icon": "👨‍💻",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  },
+  "Prodotti per animali": {
+    "icon": "🐶",
+    "data": [
+      {
+        "name": "",
+        "tel": "",
+        "note": ""
+      }
+    ]
+  }
+}
