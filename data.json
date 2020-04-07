@@ -1,110 +1,74 @@
 {
-  "Salute": {
+  "salute": {
     "icon": "👩‍⚕️",
-    "data": [{ "name": "", "tel": "", "note": "" }]
+    "data": [
+      {
+        "name": "FARMACIA 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "FARMACIA 2",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "II"
+      },
+      {
+        "name": "FARMACIA 3",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
   },
   "gelaterie": {
     "icon": "🍦",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
   "macellerie": {
     "icon": "🥩",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Panifici": {
+  "panifici": {
     "icon": "🍞",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
   "generi alimentari": {
     "icon": "🥬",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "site": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Ristorazione": {
+  "ristorazione": {
     "icon": "🍽️",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Pesce fresco": {
+  "pesce fresco": {
     "icon": "🎣",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
   "sushi": {
     "icon": "🍣",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
   "pasta fresca e primi piatti": {
     "icon": "🍝",
-    "data": [
-      {
-        "name": "",
-        "tel": [],
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Enoteca e Birre": {
+  "enoteca e Birre": {
     "icon": "🍾",
-    "data": [
-      {
-        "name": "",
-        "tel": [],
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Frutta fresca": {
+  "frutta fresca": {
     "icon": "🍎",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Supermercati": {
+  "supermercati": {
     "icon": "🛒",
     "data": [
       {
@@ -338,57 +302,339 @@
         "site": "",
         "note": "",
         "municipio": "III"
+      },
+      {
+        "name": "SUPERMERCATI DEM",
+        "address": "Via Tuscolana, 761",
+        "tel": "06 7610852",
+        "site": "",
+        "note": "",
+        "municipio": "VII"
+      },
+      {
+        "name": "CONAD",
+        "address": "Via Tuscolana, 881",
+        "tel": "06 7480020",
+        "site": "",
+        "note": "",
+        "municipio": "VII"
+      },
+      {
+        "name": "ELITE",
+        "address": "Via Appia Nuova, 472",
+        "tel": "06 78347971",
+        "site": "",
+        "note": "",
+        "municipio": "VII"
+      },
+      {
+        "name": "TIGRE",
+        "address": "Via Acaia, 60",
+        "tel": "800 558655",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VII"
+      },
+      {
+        "name": "ELITE",
+        "address": "Via Magna Grecia, 97/A",
+        "tel": "06 77076775",
+        "site": "",
+        "note": "",
+        "municipio": "VII"
+      },
+      {
+        "name": "TIGRE",
+        "address": "Via Veturia, 72",
+        "tel": "06 7847961",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VII"
+      },
+      {
+        "name": "PAM",
+        "address": "Via Furio Camillo, 57",
+        "tel": "",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VII"
+      },
+      {
+        "name": "IPERTRISCOUNT",
+        "address": "Via dell'Arco di Travertino, 88",
+        "tel": "06 78147343",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VII"
+      },
+      {
+        "name": "CONAD",
+        "address": "Via Appia, 889",
+        "tel": "06 71280048",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VII"
+      },
+      {
+        "name": "CONAD",
+        "address": "Via Tommaso da Celano, 78",
+        "tel": "06 7822299",
+        "site": "",
+        "note": "",
+        "municipio": "VII"
+      },
+      {
+        "name": "METÀ",
+        "address": "Piazza Zama, 32",
+        "tel": "06 7000776",
+        "site": "",
+        "note": "",
+        "municipio": "VII"
+      },
+      {
+        "name": "IL CASTORO",
+        "address": "Circonvallazione Appia, 194",
+        "tel": "06 78147025",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VII"
+      },
+      {
+        "name": "PEWEX",
+        "address": "Via di Grotta Perfetta, 360",
+        "tel": "06 59606436",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VIII"
+      },
+      {
+        "name": "TODIS",
+        "address": "Via Caffaro, 115",
+        "tel": "06 39733139",
+        "site": "",
+        "note": "",
+        "municipio": "VIII"
+      },
+      {
+        "name": "EMMEPIÙ",
+        "address": "Via Chiabrera, 91",
+        "tel": "06 5410799",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VIII"
+      },
+      {
+        "name": "TUODÌ",
+        "address": "Via delle Sette Chiese, 136",
+        "tel": "349 5440027",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VIII"
+      },
+      {
+        "name": "PAM",
+        "address": "Circonvallazione Ostiense, 278",
+        "tel": "06 45519304",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "VIII"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Piazza della Stazione del Lido, 19",
+        "tel": "06 5624053",
+        "site": "",
+        "note": "Solo online",
+        "municipio": "X"
+      },
+      {
+        "name": "TODIS",
+        "address": "Via della Magliana, 274",
+        "tel": "06 55590102",
+        "site": "",
+        "note": "",
+        "municipio": "XI"
+      },
+      {
+        "name": "TODIS",
+        "address": "Via della Magliana, 100",
+        "tel": "06 55590102",
+        "site": "",
+        "note": "Solo online",
+        "municipio": "XI"
+      },
+      {
+        "name": "FRESCO MARKET",
+        "address": "Via della Scarperia, 6",
+        "tel": "338 7804368",
+        "site": "",
+        "note": "",
+        "municipio": "XI"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via G. Arturo Crocco, 51",
+        "tel": "06 60200556",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XI"
+      },
+      {
+        "name": "TODIS",
+        "address": "Via del Trullo, 304",
+        "tel": "06 65795159",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XI"
+      },
+      {
+        "name": "EUROSPIN",
+        "address": "Via Lorenzo Allievi, 57",
+        "tel": "800 595595",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XI"
+      },
+      {
+        "name": "PANORAMA",
+        "address": "Via Gino Frontali, 14",
+        "tel": "06 86980840",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XII"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Piazzale Eugenio Morelli, 52",
+        "tel": "06 65740394",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "CONAD",
+        "address": "Via Cardinale di York, 2",
+        "tel": "06 66165329",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "PAM",
+        "address": "Via dei Quattro Venti, 79",
+        "tel": "06 45751870",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "TODIS",
+        "address": "Piazzale Enrico Dunant, 28",
+        "tel": "06 58233334",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "METÀ",
+        "address": "Via di Colli Portuensi, 187",
+        "tel": "",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "PIM",
+        "address": "Via di Bravetta, 403",
+        "tel": "06 66151849",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "SIMPLY",
+        "address": "Via Luigi Zambarelli, 31",
+        "tel": "06 53272539",
+        "site": "",
+        "note": "",
+        "municipio": "XII"
+      },
+      {
+        "name": "AGORÀ",
+        "address": "Via Gregorio VII, 242",
+        "tel": "06 631972",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XIII"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Piazza Irnerio, 51‐52",
+        "tel": "06 66000771",
+        "site": "",
+        "note": "",
+        "municipio": "XIII"
+      },
+      {
+        "name": "ELITE",
+        "address": "Via Aurelia, 772",
+        "tel": "06 66415989",
+        "site": "",
+        "note": "Servizio solo per la Croce Rossa",
+        "municipio": "XIII"
+      },
+      {
+        "name": "CARREFOUR",
+        "address": "Via Gregorio XI, 201",
+        "tel": "06 66541085",
+        "site": "",
+        "note": "Servizio solo per la Croce Rossa",
+        "municipio": "XIII"
+      },
+      {
+        "name": "DEM",
+        "address": "Via di Casal Selce, 296",
+        "tel": "06 61907031",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XIII"
+      },
+      {
+        "name": "AGORÀ",
+        "address": "Via di Boccea, 632",
+        "tel": "06 61566459",
+        "site": "",
+        "note": "",
+        "municipio": "XIII"
+      },
+      {
+        "name": "PEWEX",
+        "address": "Via della Lucchina, 96 (C. Comm. Gulliver)",
+        "tel": "06 30819714",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XIV"
       }
     ]
   },
-  "Pasticceria": {
+  "pasticceria": {
     "icon": "🍩",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Pizzerie": {
+  "pizzerie": {
     "icon": "🍕",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Lavenderie": {
+  "lavenderie": {
     "icon": "👔",
-    "data": [
-      {
-        "name": "",
-        "tel": [],
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Informatica": {
+  "informatica": {
     "icon": "👨‍💻",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   },
-  "Prodotti per animali": {
+  "prodotti per animali": {
     "icon": "🐶",
-    "data": [
-      {
-        "name": "",
-        "tel": "",
-        "note": ""
-      }
-    ]
+    "data": [{}]
   }
 }
