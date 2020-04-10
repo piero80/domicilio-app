@@ -1,0 +1,160 @@
+{
+  "salute": {
+    "icon": "👩‍⚕️",
+    "data": [
+      {
+        "name": "FARMACIA MEZZOCAMMINO",
+        "address": "Viale Gianluigi Bonelli, 84a, 00127 Roma RM",
+        "tel": "06 5283 3563",
+        "site": "http://www.farmaciamezzocammino.it",
+        "note": "Orario continuato",
+        "servizi": "Prenota Farmaco",
+        "orari": "Dal Lunedi al Sabato 8.30-20.00"
+      }
+    ]
+  },
+  "gelaterie": {
+    "icon": "🍦",
+    "data": [
+      {
+        "name": "GELATERIA 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "macellerie": {
+    "icon": "🥩",
+    "data": [
+      {
+        "name": "MACELLERIA 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "panifici": {
+    "icon": "🍞",
+    "data": [
+      {
+        "name": "PANIFICI 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "generi alimentari": {
+    "icon": "🥬",
+    "data": [
+      {
+        "name": "ALIMENTARI 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "ristorazione": {
+    "icon": "🍽️",
+    "data": [
+      {
+        "name": "RISTORANTE 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "pesce fresco": {
+    "icon": "🎣",
+    "data": [
+      {
+        "name": "PESCHERIA 1",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "III"
+      }
+    ]
+  },
+  "sushi": {
+    "icon": "🍣",
+    "data": [{}]
+  },
+  "pasta fresca e primi piatti": {
+    "icon": "🍝",
+    "data": [{}]
+  },
+  "enoteca e Birre": {
+    "icon": "🍾",
+    "data": [{}]
+  },
+  "frutta fresca": {
+    "icon": "🍎",
+    "data": [{}]
+  },
+  "supermercati": {
+    "icon": "🛒",
+    "data": [
+      {
+        "name": "METÀ",
+        "address": "Via Cavour, 218",
+        "tel": "0648903726",
+        "site": "",
+        "note": "",
+        "municipio": "I"
+      },
+      {
+        "name": "PEWEX",
+        "address": "Via della Lucchina, 96 (C. Comm. Gulliver)",
+        "tel": "06 30819714",
+        "site": "",
+        "note": "Solo giorni feriali",
+        "municipio": "XIV"
+      }
+    ]
+  },
+  "pasticceria": {
+    "icon": "🍩",
+    "data": [{}]
+  },
+  "pizzerie": {
+    "icon": "🍕",
+    "data": [
+      {
+        "name": "CASA MAGGIO",
+        "address": "Piazza Crepax, 00127 Roma",
+        "tel": "06 5283 3022",
+        "site": "https://www.casamaggio.it",
+        "note": "",
+        "orario": "18:00 - 23:30"
+      }
+    ]
+  },
+  "lavenderie": {
+    "icon": "👔",
+    "data": [{}]
+  },
+  "informatica": {
+    "icon": "👨‍💻",
+    "data": [{}]
+  },
+  "prodotti per animali": {
+    "icon": "🐶",
+    "data": [{}]
+  }
+}
