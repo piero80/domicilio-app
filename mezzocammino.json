@@ -9,7 +9,9 @@
         "site": "http://www.farmaciamezzocammino.it",
         "note": "Orario continuato",
         "servizi": "Prenota Farmaco",
-        "orari": "Dal Lunedi al Sabato 8.30-20.00"
+        "email": "farmaciamezzocammino@virgilio.it",
+        "orari": "Dal Lunedi al Sabato 8.30-20.00",
+        "social": ["https://www.facebook.com/farmaciamezzocammino"]
       }
     ]
   },

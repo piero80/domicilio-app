@@ -17,3 +17,7 @@ code {
 .dropdown {
   position: absolute;
 }
+.sidebar {
+  background-color: #f9fbfc;
+  padding: 16px 20px 25px;
+}
